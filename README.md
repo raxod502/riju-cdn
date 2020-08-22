@@ -16,6 +16,11 @@ This repository contains assets hosted for
 
 ## Maintenance
 
-Unfortunately, I did not keep a record of how I prepared these files.
-Next time I need to update one of them, I'll figure it out and write
-it down.
+Unfortunately, I did not keep a record of how I prepared most of these
+files. Next time I need to update one of them, I'll figure it out and
+write it down.
+
+### Brittany
+
+Install latest version of Cabal v3, then use it with `--installdir` to
+create a binary linked to `/usr/lib/ghc`.
