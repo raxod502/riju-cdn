@@ -1,8 +1,10 @@
 I do not own anything hosted here. License requirements are as
 follows:
 
-* Brittany: [AGPL
-  v3.0](https://github.com/lspitzner/brittany/blob/7d68b1cc3809e2921756c3a1bf67a83e82c21b0a/LICENSE)
+* Brittany:
+  [AGPLv3](https://github.com/lspitzner/brittany/blob/7d68b1cc3809e2921756c3a1bf67a83e82c21b0a/LICENSE)
+* Ezhil:
+  [GPLv3](https://sourceforge.net/p/ezhillang/code/ci/b00c83456887e58587a3ba3519480af307d7a3a2/tree/LICENSE.txt)
 * HIE: [3-clause BSD
   License](https://github.com/haskell/haskell-ide-engine/blob/e4972ff44c7649e3f53ffac37ae899410075aa0f/LICENSE)
     * Hoogle database: [Various open-source

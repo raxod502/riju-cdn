@@ -16,7 +16,7 @@ This repository contains assets hosted for
 
 ## Maintenance
 
-Unfortunately, I did not keep a record of how I prepared most of these
+Unfortunately, I did not keep a record of how I prepared all of these
 files. Next time I need to update one of them, I'll figure it out and
 write it down.
 
@@ -24,3 +24,8 @@ write it down.
 
 Install latest version of Cabal v3, then use it with `--installdir` to
 create a binary linked to `/usr/lib/ghc`.
+
+### Ezhil
+
+Download latest tarball from
+[Sourceforge](https://sourceforge.net/projects/ezhillang/files/Linux-Ubuntu-64bit/).
