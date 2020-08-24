@@ -12,7 +12,8 @@ This repository contains assets hosted for
 * Some people just don't know how to run CDNs. Ironically enough Apple
   is one such company; the official download for Swift fails on a
   regular basis. I mirror the files here, because MicrosoftHub knows
-  what they're doing when it comes to file hosting.
+  what they're doing when it comes to file hosting. Sourceforge has
+  similar problems.
 
 ## Maintenance
 
@@ -29,3 +30,10 @@ create a binary linked to `/usr/lib/ghc`.
 
 Download latest tarball from
 [Sourceforge](https://sourceforge.net/projects/ezhillang/files/Linux-Ubuntu-64bit/).
+
+### Unison
+
+Follow the instructions at [the
+README](https://github.com/unisonweb/unison#building-using-stack),
+namely just `stack build` and then extract the binary from `stack exec
+which unison`.
