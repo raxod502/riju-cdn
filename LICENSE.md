@@ -13,3 +13,5 @@ follows:
   License](https://github.com/evincarofautumn/kitten/blob/bcaffa109c7f93959b3c2e9e7ae74462f840088d/LICENSE.md)
 * Swift: [Apache
   License](https://github.com/apple/swift/blob/9ce82500d0e2a01fc33e8fc71ded8abc4358f959/LICENSE.txt)
+* Unison: [Custom
+  license](https://github.com/unisonweb/unison/blob/519cbeb58704c1b9410c9386e492be59fd5a5334/LICENSE)
