@@ -21,6 +21,17 @@ Unfortunately, I did not keep a record of how I prepared all of these
 files. Next time I need to update one of them, I'll figure it out and
 write it down.
 
+### Ante
+
+    $ git clone https://github.com/jfecher/ante.git /opt/ante
+    $ cd /opt/ante
+    $ cmake .
+    $ cmake --build .
+
+Extract the binary `ante` and the shared library `libantecommon.so`.
+Note that the build takes about an hour because for some reason it
+wants to build all of LLVM.
+
 ### Brittany
 
 Install latest version of Cabal v3, then use it with `--installdir` to

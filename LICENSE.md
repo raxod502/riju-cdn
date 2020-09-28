@@ -1,6 +1,8 @@
 I do not own anything hosted here. License requirements are as
 follows:
 
+* Ante: [MIT
+  License](https://github.com/jfecher/ante/blob/d2c43992e0c7a4c1942d5c097233f4f7638a1ee6/LICENSE)
 * Brittany:
   [AGPLv3](https://github.com/lspitzner/brittany/blob/7d68b1cc3809e2921756c3a1bf67a83e82c21b0a/LICENSE)
 * Ezhil:
