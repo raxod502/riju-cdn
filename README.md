@@ -27,10 +27,11 @@ write it down.
     $ cd /opt/ante
     $ cmake .
     $ cmake --build .
+    $ tar -czf stdlib.tar.gz stdlib
 
-Extract the binary `ante` and the shared library `libantecommon.so`.
-Note that the build takes about an hour because for some reason it
-wants to build all of LLVM.
+Extract the binary `ante`, the shared library `libantecommon.so`, and
+the tarball `stdlib.tar.gz`. Note that the build takes about an hour
+because for some reason it wants to build all of LLVM.
 
 ### Brittany
 
