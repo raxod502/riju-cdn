@@ -1,5 +1,7 @@
 # Riju CDN
 
+**No longer used as of Riju's build system revamp**
+
 This repository contains assets hosted for
 [Riju](https://github.com/raxod502/riju). Why?
 
